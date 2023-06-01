@@ -1,0 +1,1 @@
+python ../model/train.py    --train_query_dir ../input_files_small/FB15K_small_train_queries.pkl    --valid_query_dir ../input_files_small/FB15K_small_valid_queries.pkl    --test_query_dir ../input_files_small/FB15K_small_test_queries.pkl   --data_name FB15K   --model gqe    --batch_size 1024  --typed  --log_steps 1000   --small 

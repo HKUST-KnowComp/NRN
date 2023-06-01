@@ -1,0 +1,10 @@
+
+input_files/
+
+input_files_small/
+
+logs/
+
+model/__pycache__/
+
+input_files.zip
